@@ -11,7 +11,7 @@
 
 
 
-describe('Central de Atendimento ao Cliente TAT', function () {
+describe('Central de Atendimento ao Cliente TT', function () {
     beforeEach(() => {
         cy.visit('./src/index.html')
     })
